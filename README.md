@@ -9,3 +9,5 @@ Goto: Tools -> Options -> Import... then choose "Sublime-Theme.zip" and apply ch
 Font: https://github.com/mozilla/Fira
 
 My website: www.mirkobrombin.ml
+
+Plugin on Netbeans: http://plugins.netbeans.org/plugin/58808/atom-fonts-amp-color
