@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="markup-attribute" foreColor="ffff0099" name="argument">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="default" foreColor="ffff0099" name="sgml-declaration">
+        <font style="bold+italic"/>
+    </fontcolor>
+    <fontcolor default="default" name="el-content"/>
+    <fontcolor foreColor="ffffcccc" name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="default" name="el-delimiter">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="markup-element" foreColor="ffffcccc" name="tag"/>
+    <fontcolor default="default" foreColor="ffcc99ff" name="text"/>
+    <fontcolor default="markup-attribute-value" foreColor="ffffcccc" name="value">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="default" name="javascript-embedded"/>
+    <fontcolor default="default" name="css-embedded"/>
+</fontscolors>

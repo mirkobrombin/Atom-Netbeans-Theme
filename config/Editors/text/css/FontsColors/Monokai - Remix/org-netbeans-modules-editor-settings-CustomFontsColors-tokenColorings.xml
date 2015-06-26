@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="string" name="uris"/>
+    <fontcolor name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="separator" name="braces"/>
+    <fontcolor default="identifier" name="identifiers"/>
+    <fontcolor default="string" name="strings"/>
+    <fontcolor bgColor="ffeceba3" name="mark-occurrences"/>
+    <fontcolor default="number" name="numbers"/>
+    <fontcolor default="separator" name="brace"/>
+    <fontcolor default="operator" name="operators"/>
+    <fontcolor name="mod-constructor">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="number" name="hashes"/>
+    <fontcolor default="default" name="others"/>
+    <fontcolor default="keyword" name="keywords"/>
+    <fontcolor default="number" name="hash"/>
+    <fontcolor default="keyword" name="keyword"/>
+    <fontcolor default="default" name="whitespace"/>
+    <fontcolor default="string" name="rgb"/>
+    <fontcolor default="number" name="number"/>
+    <fontcolor default="separator" name="separators"/>
+    <fontcolor default="error" name="unknown"/>
+    <fontcolor default="default" name="whitespaces"/>
+    <fontcolor default="string" name="url"/>
+    <fontcolor default="operator" name="operator"/>
+    <fontcolor name="mod-class">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="string" name="string"/>
+    <fontcolor default="keyword" name="mod-custom1"/>
+    <fontcolor default="keyword" foreColor="orange" name="mod-custom2">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="comment" name="comment"/>
+    <fontcolor default="identifier" name="identifier"/>
+    <fontcolor default="separator" name="separator"/>
+    <fontcolor default="comment" name="comments"/>
+</fontscolors>
