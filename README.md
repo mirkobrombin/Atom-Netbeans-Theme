@@ -11,6 +11,4 @@ This plugin set the Atom.io editor colors in Netbeans!
 ##Requirements!
 Font: https://github.com/mozilla/Fira
 
-My website: www.mirko.space
-
 Plugin on Netbeans: http://plugins.netbeans.org/plugin/58808/atom-fonts-amp-color
