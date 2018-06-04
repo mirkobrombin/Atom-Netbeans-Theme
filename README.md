@@ -1,10 +1,13 @@
-# Atom Netbeans Theme
-All colors changed for php,css,xml and html language. 
-This plugin set the Atom.io editor colors in Netbeans!
+# Atom NetBeans Theme
 
-## How to Install: 
-Goto: Tools -> Options -> Import... then choose "Atom.zip" and apply changes. 
+Sorry, I moved the project to GitLab because of the Microsoft's acquisition of GitHub.
 
-For best result install official font Fira: https://github.com/mozilla/Fira
+## New location
+https://gitlab.com/brombinmirko/Atom-Netbeans-Theme
 
-Plugin on Netbeans: http://plugins.netbeans.org/plugin/58808/atom-fonts-amp-color
+![Moved to GitLab](https://i.imgur.com/wGgvnPq.png)
+
+## More info for Microsoft+GitHub?
+- https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/
+- https://blog.github.com/2018-06-04-github-microsoft/
+- Italians only: https://linuxhub.it/pausacaffe-lopen-source-non-e-in-vendita/
