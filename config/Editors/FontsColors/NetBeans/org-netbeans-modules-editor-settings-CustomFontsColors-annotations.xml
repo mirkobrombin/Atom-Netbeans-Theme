@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
-<fontscolors>
-    <fontcolor foreColor="pink" name="OtherThread"/>
-    <fontcolor foreColor="pink" name="OtherThreads"/>
-    <fontcolor name="PHPError" waveUnderlined="red"/>
-    <fontcolor name="PHPNotice" waveUnderlined="ffc0c000"/>
-    <fontcolor name="PHPWarning" waveUnderlined="ffc0c000"/>
-</fontscolors>
