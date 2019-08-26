@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor name="mark-occurrences"/>
+    <fontcolor name="mod-private">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="ffcc6600" name="at_rule_symbol">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="ff66ffff" name="mod-custom3">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor foreColor="ffff99cc" name="mod-custom2">
+        <font style="bold+italic"/>
+    </fontcolor>
+    <fontcolor foreColor="white" name="mod-custom1"/>
+    <fontcolor default="number" foreColor="ff99ff33" name="hashes">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="ff66ffff" name="mod-method"/>
+    <fontcolor foreColor="ffff0099" name="mod-class">
+        <font style="bold+italic"/>
+    </fontcolor>
+    <fontcolor name="mod-local-variable"/>
+</fontscolors>

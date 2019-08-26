@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor name="mark-occurrences"/>
+    <fontcolor default="comment" name="javadoc-identifier"/>
+    <fontcolor default="method" foreColor="ff99ff33" name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="mod-unused" waveUnderlined="yellow"/>
+    <fontcolor default="identifier" foreColor="ffff0099" name="mod-interface-declaration">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="identifier" foreColor="ffff0099" name="mod-constructor-declaration">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" name="html-tag">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="identifier" foreColor="white" name="mod-local-variable-declaration"/>
+    <fontcolor default="identifier" foreColor="white" name="mod-parameter-declaration"/>
+    <fontcolor default="identifier" foreColor="white" name="mod-parameter"/>
+    <fontcolor name="mod-static">
+        <font style="bold+italic"/>
+    </fontcolor>
+    <fontcolor name="mod-deprecated" strikeThrough="yellow"/>
+    <fontcolor default="identifier" foreColor="ffff0099" name="mod-class-declaration">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="string" name="string-escape-invalid" waveUnderlined="yellow">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="identifier" foreColor="white" name="mod-local-variable"/>
+</fontscolors>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="error" name="xml-error"/>
+    <fontcolor default="markup-attribute-value" name="xml-value"/>
+    <fontcolor default="default" foreColor="lightGray" name="xml-pi-end"/>
+    <fontcolor default="default" foreColor="fff92672" name="xml-pi-target"/>
+    <fontcolor default="markup-element" foreColor="fff92672" name="xml-tag"/>
+    <fontcolor default="whitespace" name="xml-EOL"/>
+    <fontcolor default="markup-attribute" foreColor="ffa6e22e" name="xml-attribute"/>
+    <fontcolor default="default" name="xml-text"/>
+    <fontcolor default="xml-attribute" foreColor="white" name="xml-operator"/>
+    <fontcolor default="default" foreColor="lightGray" name="xml-pi-content"/>
+    <fontcolor default="default" foreColor="ffe6db74" name="xml-cdata-section"/>
+    <fontcolor default="whitespace" name="xml-ws"/>
+    <fontcolor default="default" foreColor="white" name="xml-pi-start"/>
+    <fontcolor default="comment" name="xml-comment"/>
+    <fontcolor default="entity-reference" name="xml-ref"/>
+    <fontcolor default="default" foreColor="fff92672" name="xml-doctype"/>
+</fontscolors>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor name="mark-occurrences"/>
+    <fontcolor default="comment" name="htmltag">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="field" foreColor="ffff99cc" name="mod-field"/>
+    <fontcolor default="constant" name="constant">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor foreColor="ffff0099" name="mod-class">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="method" foreColor="ffff0099" name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="mod-unused" waveUnderlined="orange"/>
+    <fontcolor default="number" name="number"/>
+    <fontcolor foreColor="ffffcc99" name="heredocdelimiter">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="separator" foreColor="ffff0099" name="phpopenclose">
+        <font style="bold+italic"/>
+    </fontcolor>
+    <fontcolor name="mod-static">
+        <font style="bold+italic"/>
+    </fontcolor>
+    <fontcolor name="mod-deprecated" strikeThrough="yellow"/>
+    <fontcolor default="method" foreColor="ff99ff33" name="mod-custom1">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="white" name="variable"/>
+    <fontcolor default="keyword" foreColor="ff66ffff" name="keyword"/>
+</fontscolors>
